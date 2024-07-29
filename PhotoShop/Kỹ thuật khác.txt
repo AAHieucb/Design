@@ -1,4 +1,4 @@
-﻿# Strange Skill:
+﻿# Kỹ thuật khác:
 -> Cách chỉnh độ bóng sáng(cho mắt):
 NewLayer+BrushTool(loại bút sắc nét+chỉnh nét nhất)->ChooseWhiteColor->DrawACircleOnTheEye->EraseTool(chọn kích thước to hơn con ngươi 1 chút+full hardness)->DrawEraseOnPupil->chọn tẩy có hardness nhỏ rồi xóa phần thừa->Filter+Blur+GaussianBlur cho cái layer đó ->BlendingModeLayer+Overlay->chỉnh độ ảnh hưởng bằng OpacityLayer->chỉnh vị trí bằng LayerMask+BrushTool(màu đen)+OpacityBrush
 (Vđ là chế độ hòa trôn overlay nó xóa màu xám và đồng thời làm cho màu sắc trở nên sáng nổi hơn k như softlight chỉ loại bỏ màu(nó làm sáng tối hơn 1 chút và tối sáng hơn)-> rất thích hợp chỉnh độ sáng trong dễ nhìn cho màu mắt)
@@ -60,7 +60,9 @@ Chỉnh các thanh trượt ở trang đầu phù hợp tương phản màu sắ
 Kỹ thuật xoá ảnh nhuốm tông giúp màu sắc cân bằng:
 Dùng sau clarify sẽ giúp ảnh trông thực mà đỡ bị nhuốm tông->newlayer->chọn màu đáng lẽ ra là màu trắng trong bức ảnh(nhưng bị nhuốm lông khiến nó hết trắng)->solidcolor->blendMode:Divide->doubleClickOnSolidColorLayer->tick vào chữ B(Brightness)->kéo thanh trượt lên nếu màu bị chói quá
 
--> Other:
+
+
+# Other:
 SolidColor khác layer màu bth ở chỗ, solidColor sẽ chỉnh màu nhìn thấy ngay
 
 Chế độ hoà trộn devide sẽ tạo ra màu =256÷(màu trên÷ màu dưới)=>cơ chế:ví dụ bức ảnh bị nhuốm tông khiến vùng màu đáng lẽ trắng thì lại k có màu trắng->ta chọn màu đó và dùng với solidColor+divide thì sẽ tạo ra 256÷(1÷1)=màu trắng, các vùng tối gặp màu trắng cx sẽ sáng lên=> tuy nhiên nếu như màu trắng chói quá làm mất các chi tiet thì chỉnh tiếp brightness như trên
@@ -172,4 +174,5 @@ lưu cái mask bất kỳ vào Channeltable-> CTRL+ClickMask->Copy->sang channel
 khi tạo layermask với 1 ảnh sẽ tự động có nó trong channel table.
 
 HistoryBrushTool->Tô quá khứ
+
 

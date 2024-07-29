@@ -6,7 +6,7 @@ Mở paint: WINDOW + R + gõ mspaint / CMD + mspaint.exe
 
 CTRL + O
 
-mũi tên bên trên bên phải/double click tab
+Mũi tên bên trên bên phải/double click tab
 
 Resize canvas: Home-> Resize-> Percentage/Pixels
 
@@ -19,7 +19,7 @@ View + Gridlines/ CTRL + G
 Save As-> OtherFormat -> các kiểu lưu kỳ cục khác ví dụ đặt tên là .ico chẳng hạn
 
 Chọn shapes-> vẽ shapes-> fill/Outline-> solid color => color 1 là outline, color2 là shape 
-đường cong chỉ đc chỉnh 2 lần
+Đường cong chỉ đc chỉnh 2 lần
 color2 cũng là màu của tẩy khi dùng còn bút chì là color1
 
 Select->rightclick->invert color

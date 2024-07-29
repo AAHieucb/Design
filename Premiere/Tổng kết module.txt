@@ -1,4 +1,4 @@
-﻿Priemere:
+﻿Premiere:
 
 
 # Basic
@@ -23,7 +23,7 @@ ProgramSequence->Chỉnh kích thước  chất lượng  ->kéo rê kích thư�
 RazorTool=>C=>click chia video con
 SelectionTool=>V chọnVid=>moveVidPosition  rightclickVid/khoảng trống=>RippleDelete
 Di chuyển video nào hiển thị trc,kéo vô hạn vid trùng vào ok
-chọn nhiều video liền nhau->rightclick->nest
+Chọn nhiều video liền nhau->rightclick->nest
 
 RightClickVidOnTimelineTable->EffectControlsTable->ResetButton
 Motion->Position->chỉnh trục x,y  Scale(cả ảnh và vid)
@@ -62,11 +62,11 @@ doubleClickEverythingOnTimeline->chỉnh trên source
 
 File->Export->Media->Ctrl+M->chỉnh format(H264),preset(youtube720p)  matchSequenceSetting tự động=>nên chỉnh preset sao cho đúng với định dạng source sequence  chỉnh video/auTable  
 
-rightCLickVidOnTimelineTable->RemoveAttribute(bỏ kc)
+RightCLickVidOnTimelineTable->RemoveAttribute(bỏ kc)
 
-chỉnh keyframe trc khi cắt vid
+Chỉnh keyframe trc khi cắt vid
 
-xoá bỏ một vật thể cơ bản: nhân bản vid+chọn v mấy trong timeline+chọn vùng khác, đắp vào+ keyframe+chỉnh feather và màu cho nó hòa trộn. Khi vật thể di động dùng keyframe cho cđ theo+dịch vid ta đè.
+Xoá bỏ một vật thể cơ bản: nhân bản vid+chọn v mấy trong timeline+chọn vùng khác, đắp vào+ keyframe+chỉnh feather và màu cho nó hòa trộn. Khi vật thể di động dùng keyframe cho cđ theo+dịch vid ta đè.
 
 giữ ALT+di layer để copy đến vị trí nào(k giữ CTRL)
 
@@ -87,4 +87,5 @@ Video không đúng sequence hay bị lag
 Lỗi adobe premiere: file mp4 nặng quá, phải convert sang m4v mới đc. Dùng HandBrake chuyển đổi mà vẫn giữ dung lượng
 
 -> Capcut: phần mềm chỉnh sửa video không chuyên tốt nhất. Chỉ đứng sau các tool chuyên nghiệp như premiere và after effect.
+
 

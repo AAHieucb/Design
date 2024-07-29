@@ -2,7 +2,7 @@
 
 
 # Basic:
-CameraRaw: chỉ click+alt ctrl0 để zoom AdjustmentTool+Giữ chuột WhiteBlance:fill màu ngc lại màu đó=> tìm màu trung tính trông bức ảnh rất thực.Adjustmentool=>nhan giữ RIGHTMOUSE+chỉnh TT lên ảnh. Thg dùng 2 cái saturation và parametric curve làm đổi độ đậm và độ sáng ở 1 vùng. xóa bẩn vs spot remove, gradient tạo vùng chuyển sáng tối, brush vs chỉnh sáng tối 1 vị trí. radial filter khoanh vùng r chỉnh bên ngoài, clear all. +TransformTool +AdjustmentBursh+giữ chuột phải điều chỉnh phạm vi, click chuột trái chỉnh vị tri
+CameraRaw: chỉ click+alt ctrl0 để zoom AdjustmentTool+Giữ chuột WhiteBlance:fill màu ngc lại màu đó=> tìm màu trung tính trông bức ảnh rất thực.Adjustmentool=>nhan giữ RIGHTMOUSE+chỉnh TT lên ảnh. Thg dùng 2 cái saturation và parametric curve làm đổi độ đậm và độ sáng ở 1 vùng. Xóa bẩn vs spot remove, gradient tạo vùng chuyển sáng tối, brush vs chỉnh sáng tối 1 vị trí. radial filter khoanh vùng r chỉnh bên ngoài, clear all. +TransformTool +AdjustmentBursh+giữ chuột phải điều chỉnh phạm vi, click chuột trái chỉnh vị tri
 Highlight làm giảm độ chói khi quá sáng, vibrant làm tăng độ tươi,sharpening làm nét
 
 Để đăng đc ảnh lên website, cần đảm bảo yếu tốt nhẹ và giữ nguyên đc màu sắc
@@ -337,4 +337,7 @@ Select+Deselect=>CTRL+D
 [ ] RIGHTCLICK => ALT+RIGHTCLICK+MOUSEMOTION
 
 EDIT+PRe+HUD Color Picker=> SHIFT+ALT+RIGHTCLICK
+
+
+
 
