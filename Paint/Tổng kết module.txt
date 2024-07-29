@@ -1,0 +1,29 @@
+Paint:
+
+
+# Basic
+Mở paint: WINDOW + R + gõ mspaint / CMD + mspaint.exe 
+
+CTRL + O
+
+mũi tên bên trên bên phải/double click tab
+
+Resize canvas: Home-> Resize-> Percentage/Pixels
+
+Select-> chọn vùng hcn trên ảnh-> crop/kéo rê phần đó ra chỗ khác
+Select Dropdown-> Free-form 
+
+View + Rulers/ CTRL + R => mở thước kẻ
+View + Gridlines/ CTRL + G
+
+Save As-> OtherFormat -> các kiểu lưu kỳ cục khác ví dụ đặt tên là .ico chẳng hạn
+
+Chọn shapes-> vẽ shapes-> fill/Outline-> solid color => color 1 là outline, color2 là shape 
+đường cong chỉ đc chỉnh 2 lần
+color2 cũng là màu của tẩy khi dùng còn bút chì là color1
+
+Select->rightclick->invert color
+
+File->print-> in thành pdf
+
+
